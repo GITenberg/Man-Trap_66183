@@ -1,5 +1,5 @@
 _repo: Man-Trap_66183
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Terry, W. E.
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 66183-h/images/cover.jpg
 creator:
   author:
     agent_name: Annas, Hal
     gutenberg_agent_id: '53170'
     url: http://www.gutenberg.org/2009/agents/53170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66183#Man-Trap
 gutenberg_issued: '2021-08-30'
 identifiers:
   gutenberg: '66183'
